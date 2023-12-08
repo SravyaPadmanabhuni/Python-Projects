@@ -1,0 +1,22 @@
+random_words = [
+    "Elephant", "Sunshine", "Avocado", "Breeze", "Enigma",
+    "Quasar", "Raspberry", "Kaleidoscope", "Serendipity", "Utopia",
+    "Nebula", "Symphony", "Wanderlust", "Zephyr", "Ponder",
+    "Velvet", "Luminous", "Cascade", "Quixotic", "Jubilee",
+    "Harmony", "Effervescent", "Saffron", "Ineffable", "Radiant",
+    "Whimsical", "Ethereal", "Zenith", "Luminary", "Cascade",
+    "Perennial", "Quench", "Melancholy", "Solitude", "Pinnacle",
+    "Resonance", "Velvety", "Mellifluous", "Jubilant", "Inquisitive",
+    "Epiphany", "Labyrinth", "Petrichor", "Symmetry", "Cascade",
+    "Ethereal", "Halcyon", "Nebulous", "Quasar", "Enigmatic",
+    "Vermilion", "Ponder", "Blissful", "Quaint", "Cascade",
+    "Zephyr", "Cacophony", "Lustrous", "Resilient", "Mellifluous",
+    "Cascade", "Ephemeral", "Uplift", "Serenity", "Incandescent",
+    "Effulgent", "Luminous", "Vermilion", "Cascade", "Ethereal",
+    "Quasar", "Whimsical", "Ineffable", "Labyrinth", "Bountiful",
+    "Radiant", "Cascade", "Utopia", "Halcyon", "Nebulous",
+    "Quench", "Mellifluous", "Enigma", "Cascade", "Symphony",
+    "Kaleidoscope", "Resilient", "Lustrous", "Cascade", "Epiphany",
+    "Velvet", "Pinnacle", "Serendipity", "Breeze", "Nebula",
+    "Effervescent", "Harmony", "Wanderlust", "Quixotic", "Cascade"
+]
