@@ -1,4 +1,4 @@
-#nto generate random choice from computer we need to import random module
+#to generate random choice from computer we need to import random module
 import random
 user_choice = int(input('Enter your Choice: Type 0 for Rock, 1 for Paper, 2 for Scissors: '))
 if user_choice > 2 and user_choice < 0:
